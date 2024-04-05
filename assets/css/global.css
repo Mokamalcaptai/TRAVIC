@@ -1,0 +1,22 @@
+@font-face{
+  font-family: 'kanit';
+  src: url(../fonts/kanit/Kanit-Regular.woff2);
+  font-weight: 500;
+}
+@font-face{
+  font-family: 'kanit';
+  src: url(../fonts/kanit/Kanit-Medium.woff2);
+  font-weight: 700;
+}
+@font-face{
+  font-family: 'kanit';
+  src: url(../fonts/kanit/Kanit-Bold.woff2);
+  font-weight: 900;
+}
+:root{
+  --primary-color:rgb(254,189,25);
+  --navy-blue-color:rgb(23, 27, 43);
+  --dark-navy-color:rgb(4, 6, 18);
+  --whiten-color:rgba(255, 255, 255, 0.9);
+
+}
